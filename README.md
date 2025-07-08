@@ -65,9 +65,5 @@ This repository contains my solutions for the Spring 2023 assignments of the Sta
 
 ---
 
-## 🧠 Notes
 
-These solutions are for learning and reference only. Please follow the course’s honor code if you're currently enrolled.
-
----
 
