@@ -2,13 +2,13 @@
 
 This repository contains my solutions for the Spring 2023 assignments of the Stanford CS231n course. Each notebook is well-commented and covers key deep learning concepts.
 
-## 📘 Course Info
-- 🔗 [CS231n Website](https://cs231n.stanford.edu/)
-- 📦 [Assignment Starter Code](https://github.com/cs231n/cs231n.github.io/tree/master/assignments/2023)
+##  Course Info
+-  [CS231n Website](https://cs231n.stanford.edu/)
+-  [Assignment Starter Code](https://github.com/cs231n/cs231n.github.io/tree/master/assignments/2023)
 
 ---
 
-## 📂 Assignment 1
+##  Assignment 1
 
 - **Q1: k-Nearest Neighbor**  
   [knn.ipynb](https://github.com/AdnanShaikh88/sos_25/blob/main/assignments/assignment1/knn.ipynb)
@@ -27,7 +27,7 @@ This repository contains my solutions for the Spring 2023 assignments of the Sta
 
 ---
 
-## 📂 Assignment 2
+##  Assignment 2
 
 - **Q1: Fully-Connected Networks**  
   [FullyConnectedNets.ipynb](https://github.com/AdnanShaikh88/sos_25/blob/main/assignments/assignment2/FullyConnectedNets.ipynb)
@@ -46,7 +46,7 @@ This repository contains my solutions for the Spring 2023 assignments of the Sta
 
 ---
 
-## 📂 Assignment 3
+##  Assignment 3
 
 - **Q1: Network Visualization**  
   [Network_Visualization.ipynb](https://github.com/AdnanShaikh88/sos_25/blob/main/assignments/assignment3/Network_Visualization.ipynb)
